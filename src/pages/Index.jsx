@@ -16,7 +16,7 @@ const Index = () => {
 
   return (
     <div className="container mx-auto p-4">
-      <Card className="bg-red-500 text-white">
+      <Card className="bg-blue-500 text-white">
         <CardHeader className="text-2xl font-bold">Monthly Revenue</CardHeader>
         <CardContent>
           <ResponsiveContainer width="100%" height={400}>
